@@ -1,5 +1,7 @@
 ---
 title: Island Royale Showdown
+layout: template
+filename: IslandRoyaleShowdown.md
 ---
 
 # Project title

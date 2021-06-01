@@ -1,5 +1,7 @@
 ---
 title: Logan Thatcher's Portfolio
+layout: template
+filename: index.md
 ---
 
 ## Projects
