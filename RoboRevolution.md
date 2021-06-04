@@ -56,27 +56,27 @@ filename: RoboRevolution.md
 
   Camera zoom when selecting a character
 
-![Gif of Camera Zoom](https://loganthatcher.com/images/RoboRev/healthPowerupAndShooting1.gif)
+![Gif of Collecting a health powerup and shooting](https://loganthatcher.com/images/RoboRev/healthPowerupAndShooting1.gif)
 
   Collecting a health powerup and shooting -- 1
 
-![Gif of Camera Zoom](https://loganthatcher.com/images/RoboRev/healthPowerupAndShooting2.gif)
+![Gif of Collecting a health powerup and shooting](https://loganthatcher.com/images/RoboRev/healthPowerupAndShooting2.gif)
 
   Collecting a health powerup and shooting -- 2
 
-![Gif of Camera Zoom](https://loganthatcher.com/images/RoboRev/IdleAnimation.gif)
+![Gif of Idle animation](https://loganthatcher.com/images/RoboRev/IdleAnimation.gif)
 
   Idle animation
 
-![Gif of Camera Zoom](https://loganthatcher.com/images/RoboRev/PickingUpShotgun.gif)
+![Gif of Picking up a Shotgun](https://loganthatcher.com/images/RoboRev/PickingUpShotgun.gif)
 
   Picking up a Shotgun
 
-![Gif of Camera Zoom](https://loganthatcher.com/images/RoboRev/ShotgunShotAndUnitDeath.gif)
+![Gif of Shotgun shot and unit death](https://loganthatcher.com/images/RoboRev/ShotgunShotAndUnitDeath.gif)
 
   Shotgun shot and unit death
 
-![Gif of Camera Zoom](https://loganthatcher.com/images/RoboRev/EnvironmentalMappingAndSkybox.gif)
+![Gif of Environmental Mapping and Skybox](https://loganthatcher.com/images/RoboRev/EnvironmentalMappingAndSkybox.gif)
 
   Environmental Mapping and Skybox
 
