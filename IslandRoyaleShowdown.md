@@ -20,7 +20,7 @@ And a [link](https://store.steampowered.com/app/1528570/Royale_Island_Showdown/)
 
 ### The Teams
 
-![Image of Map Overview](https://loganthatcher.com/images/IRS/Overview16by9.png)
+![Image of Map Overview](https://loganthatcher.com/images/IRS/TeamShot.png)
 
 ### From the Map
 
