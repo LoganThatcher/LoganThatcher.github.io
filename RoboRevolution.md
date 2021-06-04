@@ -25,7 +25,58 @@ filename: RoboRevolution.md
   a result like the map seen in the top half of the image.
 
 ![Image of Startup](https://loganthatcher.com/images/RoboRev/startup.png)
+
   Players are presented with instructions upon starting the game.
 
+![Image of Shotgun Pickup](https://loganthatcher.com/images/RoboRev/shotgunpickup.png)
+
+  Two shotguns were located on the map. Moving over them will give players the ability to use them.
+
+![Image of Health Powerup](https://loganthatcher.com/images/RoboRev/healthpowerup.png)
+
+  Four health pickups are located on the map. Interacting with a pickup will restore one health to the unit.
+
+![Image of Player 1 winning](https://loganthatcher.com/images/RoboRev/player1win.png)
+
+  The victory screen for player 1
+
+![Image of Environmental Mapping](https://loganthatcher.com/images/RoboRev/environmentalMapping.png)
+
+  Reflections of the skybox can be seen in the map textures through the use of environmental mapping.
+
+![Image of Death Boom](https://loganthatcher.com/images/RoboRev/deathBoom.png)
+
+  Animated particles fly out from units when they die.
+
+![Image of Bullet Camera with Blur](https://loganthatcher.com/images/RoboRev/bulletCameraWithBlur.png)
+
+  Motion blur is activated when the bullet camera is on.
+
 ![Gif of Camera Zoom](https://loganthatcher.com/images/RoboRev/camera_zoom.gif)
+
   Camera zoom when selecting a character
+
+![Gif of Camera Zoom](https://loganthatcher.com/images/RoboRev/healthPowerupAndShooting1.gif)
+
+  Collecting a health powerup and shooting -- 1
+
+![Gif of Camera Zoom](https://loganthatcher.com/images/RoboRev/healthPowerupAndShooting2.gif)
+
+  Collecting a health powerup and shooting -- 2
+
+![Gif of Camera Zoom](https://loganthatcher.com/images/RoboRev/IdleAnimation.gif)
+
+  Idle animation
+
+![Gif of Camera Zoom](https://loganthatcher.com/images/RoboRev/PickingUpShotgun.gif)
+
+  Picking up a Shotgun
+
+![Gif of Camera Zoom](https://loganthatcher.com/images/RoboRev/ShotgunShotAndUnitDeath.gif)
+
+  Shotgun shot and unit death
+
+![Gif of Camera Zoom](https://loganthatcher.com/images/RoboRev/EnvironmentalMappingAndSkybox.gif)
+
+  Environmental Mapping and Skybox
+
