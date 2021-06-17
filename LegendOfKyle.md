@@ -14,43 +14,76 @@ And a [link](https://www.kongregate.com/games/SpikeHammer/the-legend-of-kyle) to
 
 ## General Pictures From The Game
 
-![Image of Boss Door](https://loganthatcher.com/images/LoK/images/BossDoor.png)
+![GIF of Fight 3](https://loganthatcher.com/images/LoK/GIFs/Fight3.gif)
 
-![Image of Crosshair Cusor](https://loganthatcher.com/images/LoK/images/CrosshairCusor.png)
-
-![Image of Ending Story](https://loganthatcher.com/images/LoK/images/EndingStory.png)
-
-![Image of End of Level Screen Tutorial](https://loganthatcher.com/images/LoK/images/EndofLevelScreenTutorial.png)
-
-![Image of Mini Map](https://loganthatcher.com/images/LoK/images/MiniMap.png)
+### Start of Game
 
 ![Image of Opening Story](https://loganthatcher.com/images/LoK/images/OpeningStory.png)
 
 ![Image of Over World Start](https://loganthatcher.com/images/LoK/images/OverWorldStart.png)
 
-![Image of Title Screen](https://loganthatcher.com/images/LoK/images/TitleScreen.png)
 
-## GIFs from the game
+### Tutorial Section
+
+![Image of Crosshair Cusor](https://loganthatcher.com/images/LoK/images/CrosshairCusor.png)
+
+![Image of Mini Map](https://loganthatcher.com/images/LoK/images/MiniMap.png)
+
+![GIF of Movement Basic](https://loganthatcher.com/images/LoK/GIFs/MovementBasic.gif)
+
+![GIF of Melee Attack](https://loganthatcher.com/images/LoK/GIFs/MeleeAttack.gif)
+
+![GIF of Range Attack](https://loganthatcher.com/images/LoK/GIFs/RangeAttack.gif)
 
 ![GIF of Arrow Charging](https://loganthatcher.com/images/LoK/GIFs/ArrowCharging.gif)
 
+![GIF of Fight 1](https://loganthatcher.com/images/LoK/GIFs/Fight1.gif)
+
+![Image of Boss Door](https://loganthatcher.com/images/LoK/images/BossDoor.png)
+
 ![GIF of Boss Fight 0](https://loganthatcher.com/images/LoK/GIFs/BossFight0.gif)
+
+![Image of End of Level Screen Tutorial](https://loganthatcher.com/images/LoK/images/EndofLevelScreenTutorial.png)
+
+### Level 1
+
 
 ![GIF of Boss Fight 1](https://loganthatcher.com/images/LoK/GIFs/BossFight1.gif)
 
+
+### Level 2
+
+
 ![GIF of Boss Fight 2](https://loganthatcher.com/images/LoK/GIFs/BossFight2.gif)
 
+
+
+### Level 3
+
+
 ![GIF of Boss Fight 3](https://loganthatcher.com/images/LoK/GIFs/BossFight3.gif)
+
+
+
+### End of Game
+
+### Power ups
+
+## GIFs from the game
+
+
+
+
+
 
 ![GIF of Bouncer](https://loganthatcher.com/images/LoK/GIFs/Bouncer.gif)
 
 ![GIF of Cross Shooter](https://loganthatcher.com/images/LoK/GIFs/CrossShooter.gif)
 
-![GIF of Fight 1](https://loganthatcher.com/images/LoK/GIFs/Fight1.gif)
 
 ![GIF of Fight 2](https://loganthatcher.com/images/LoK/GIFs/Fight2.gif)
 
-![GIF of Fight 3](https://loganthatcher.com/images/LoK/GIFs/Fight3.gif)
+
 
 ![GIF of Fight 4](https://loganthatcher.com/images/LoK/GIFs/Fight4.gif)
 
@@ -66,9 +99,6 @@ And a [link](https://www.kongregate.com/games/SpikeHammer/the-legend-of-kyle) to
 
 ![GIF of Lava Spitter](https://loganthatcher.com/images/LoK/GIFs/LavaSpitter.gif)
 
-![GIF of Melee Attack](https://loganthatcher.com/images/LoK/GIFs/MeleeAttack.gif)
-
-![GIF of Movement Basic](https://loganthatcher.com/images/LoK/GIFs/MovementBasic.gif)
 
 ![GIF of Path 0](https://loganthatcher.com/images/LoK/GIFs/Path0.gif)
 
@@ -78,7 +108,6 @@ And a [link](https://www.kongregate.com/games/SpikeHammer/the-legend-of-kyle) to
 
 ![GIF of Path 3](https://loganthatcher.com/images/LoK/GIFs/Path3.gif)
 
-![GIF of Range Attack](https://loganthatcher.com/images/LoK/GIFs/RangeAttack.gif)
 
 ![GIF of Rusher](https://loganthatcher.com/images/LoK/GIFs/Rusher.gif)
 
@@ -116,3 +145,10 @@ And a [link](https://www.kongregate.com/games/SpikeHammer/the-legend-of-kyle) to
 ### Visual Effects
 
 ### UI elements
+
+
+![Image of Ending Story](https://loganthatcher.com/images/LoK/images/EndingStory.png)
+
+![Image of Title Screen](https://loganthatcher.com/images/LoK/images/TitleScreen.png)
+
+

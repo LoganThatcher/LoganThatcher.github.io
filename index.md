@@ -6,7 +6,21 @@ filename: index.md
 
 ## About Me
 
-I am a ...
+I received my B.S. in Computer Science with a concentration in Interactive Entertainment from Cal Poly, San Luis Obispo in March 2021.
+I have a passion for games and am looking for a position where I can learn from others who share my passions and can help
+ me expand my skill set. I am excited to work on challenging projects which provide the opportunity to produce quality games while 
+ growing as a developer. 
+
+ The projects highlighted in this portfolio were created during my time at Cal Poly and help showcase my skills and the growth
+  of my game designs over the course of my education. They are listed in reverse chronological order.
+
+
+When making a game, I enjoy building a cohesive theme that enhances the player's experience. 
+I like making strategic games and enjoy thinking through puzzles and challenges. 
+I also have experience making action and shooter games using game engines like Unity and Unreal 4
+and the graphics system OpenGL.
+
+
 
 I have a passion/interest in ...
 
