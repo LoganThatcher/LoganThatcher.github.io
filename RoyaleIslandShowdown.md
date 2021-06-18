@@ -62,7 +62,7 @@ And a [link](https://store.steampowered.com/app/1528570/Royale_Island_Showdown/)
 
 ![Image of Mini Map](https://loganthatcher.com/images/RIS/images/MiniMap.png)
 
-![Image of Spotting Enemy](https://loganthatcher.com/images/RIS/images/SpottingEnemy.png)
+![Image of Center of Map](https://loganthatcher.com/images/RIS/images/Center.png)
 
 ![Image of Fighting Enemies](https://loganthatcher.com/images/RIS/images/FightingEnemies.png)
 
@@ -91,7 +91,7 @@ And a [link](https://store.steampowered.com/app/1528570/Royale_Island_Showdown/)
 
 ## Extra/Other/Unplaced
 
-![Image of Center of Map](https://loganthatcher.com/images/RIS/images/Center.png)
+![Image of Spotting Enemy](https://loganthatcher.com/images/RIS/images/SpottingEnemy.png)
 
 ![Image of Rubble of Map](https://loganthatcher.com/images/RIS/images/Rubble.png)
 
