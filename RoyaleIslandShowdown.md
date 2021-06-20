@@ -9,31 +9,31 @@ filename: RoyaleIslandShowdown.md
 Royale Island Showdown is an online multiplayer shooter. It contains battle royale elements where 4 players will dive down on the island map, 
 collect resources, and try to be the last player standing.  Each player has an AI teammate that works with them to win.
 
+### Developement
+
 The game was built in Unreal Engine 4, by myself. It uses a combination of C++ and Unreal Blueprints.
 
 And the game is available on Steam. [Link to the steam store page](https://store.steampowered.com/app/1528570/Royale_Island_Showdown/)
 
-## General Pictures From The Game
-
-### Map overview
+## Map overview
 
 ![Image of Map Overview](https://loganthatcher.com/images/RIS/images/Overview16by9.png)
 
 The game map has a variety of features and sections, with 1000+ trees, boxes, walls, barrels and buildings.
 
-### The Teams
+## The Teams
 
 ![Image of Map Overview](https://loganthatcher.com/images/RIS/images/TeamShot.png)
 
 There are 4 teams each consisting of one player and one AI, denoted by their color. 
 
-### Locations Across the Map
+## Locations Across the Map
 
 ![Composite Image of Across the Map](https://loganthatcher.com/images/RIS/images/RIS_Map_Composite.png)
 
 This composite shows 4 locations from different areas of the map, each from the player's viewpoint
 
-### Starting the Match
+## Starting the Match
 
 ![GIF of Plane Flight](https://loganthatcher.com/images/RIS/GIFs/PlaneFlight.gif)
 
@@ -43,7 +43,7 @@ All players begin by flying over the island in a plane
 
 When they choose, players can jump out and fall to the island where they want
 
-### Moving Around the Map
+## Moving Around the Map
 
 ![GIF of Walking All](https://loganthatcher.com/images/RIS/GIFs/WalkingAll.gif)
 
@@ -58,25 +58,21 @@ The AI moves and collects gear independently while staying near the player and t
 
 
 
-### Collect Resources
+## Collect Resources
 
-![GIF of Gun Pickup](https://loganthatcher.com/images/RIS/GIFs/GunPickup.gif)
-
-![GIF of Health Pickup](https://loganthatcher.com/images/RIS/GIFs/HealthPickup.gif)
-
-![GIF of Ammo Pickup](https://loganthatcher.com/images/RIS/GIFs/AmmoPickup.gif)
+![GIF of Collecting Resources](https://loganthatcher.com/images/RIS/GIFs/CollectResources.gif)
 
 There are three types of resources for the players: guns, health, and ammo
 
-### Shooting
 
 
+## Shooting
 
 ![GIF of Shooting](https://loganthatcher.com/images/RIS/GIFs/Shooting.gif)
 
 There are three types of weapons, each with sound and muzzles flash when shooting
 
-### Fighting Enemies
+## Fighting Enemies
 
 ![Image of Mini Map](https://loganthatcher.com/images/RIS/images/MiniMap.png)
 
@@ -95,7 +91,7 @@ In this fight, at the beginning the red AI recognizes that the red player is goi
 The blue AI runs for cover behind the tree but once his blue player backs off, he turns to join him.
 
 
-### Additional Technical Effects 
+## Additional Technical Effects 
 
 ![Image of Border Wall](https://loganthatcher.com/images/RIS/images/BorderWall.png)
 

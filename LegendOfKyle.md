@@ -4,12 +4,13 @@ layout: template
 filename: LegendOfKyle.md
 ---
 
-# Project title
+# Project Summary
 
 Legend of Kyle is a top down dungeon crawler style game. There are a multitude of different kinds of enemies, 
 giving the game elements of a shoot 'em up. The character gains various abilities to provide 
 options to choose their own playstyle.
 
+## Developement
 
 This game was built in Unity with a five person team.
 
@@ -17,11 +18,14 @@ The game is playable on Kongregate at this [link](https://www.kongregate.com/gam
 
 
 
-## General Pictures From The Game
+## Game Overview
 
 ![GIF of Fight 3](https://loganthatcher.com/images/LoK/GIFs/Fight3.gif)
 
-### Start of Game
+The main loop of the game is entering a room in the dungeon and killing all the monsters to move to the next room.
+Ultimatly trying to find the Boss Room and defeat it to move to the next level.
+
+## Start of Game
 
 ![Image of Opening Story](https://loganthatcher.com/images/LoK/images/OpeningStory.png)
 
@@ -33,14 +37,9 @@ There is an overworld (similar to Mario games) where players can choose which le
 players are given additional information and storyline at various points.
 
 
-### Tutorial Section
+## Tutorial Section
 
-
-![GIF of Movement Basic](https://loganthatcher.com/images/LoK/GIFs/MovementBasic.gif)
-
-![GIF of Melee Attack](https://loganthatcher.com/images/LoK/GIFs/MeleeAttack.gif)
-
-![GIF of Range Attack](https://loganthatcher.com/images/LoK/GIFs/RangeAttack.gif)
+![GIF of Tutorial](https://loganthatcher.com/images/LoK/GIFs/TutorialButtons.gif)
 
 The tutorial presents a series of basic rooms as well as UI overlays to teach the basic game controls
 (movement, melee attack, ranged attack, and rolling)
@@ -67,19 +66,28 @@ Boss doors are denoted by being purple and having purple particles rising out of
 
 The tutorial boss is a version of the Splitter Monster that is larger and splits an additional time.
 
-![Image of End of Level Screen Tutorial](https://loganthatcher.com/images/LoK/images/EndofLevelScreenTutorial.png)
+![Image of End of Level Screen Tutorial](https://loganthatcher.com/images/LoK/images/EndofLevelScreenTutorialSmall.png)
 
 Once the boss has been defeated, the player is presented with game statistics showing how well they did.
 
 
 
-### Level 1
+## Power ups
+
+![GIF of Power Ups](https://loganthatcher.com/images/LoK/GIFs/PowerUps.gif)
+
+Monsters have a small chance of dropping a power up on death. There are three possibilities:
+a heal (the heart), a temporary speed boost (the lightening bolt), or temporary invulnerability (the star).
+The player emits corresponding particles while the buffs are active.
+
+
+## Level 1
 
 ![GIF of Path 0](https://loganthatcher.com/images/LoK/GIFs/Path0.gif)
 
 Having completed the tutorial, players return to the overworld and the character makes there way to Level 1 
 
-#### New Monsters 
+### New Monsters 
 
 ![GIF of Cross Shooter](https://loganthatcher.com/images/LoK/GIFs/CrossShooter.gif)
 
@@ -89,7 +97,7 @@ This monster shoots 4 projectiles at a time
 
 This monster rushes forward quickly, pauses, and then rushes forward again.
 
-#### Sample Gameplay
+### Sample Gameplay
 
 ![GIF of Fight 3](https://loganthatcher.com/images/LoK/GIFs/Fight3.gif)
 
@@ -104,22 +112,18 @@ making the map grow. The room that the player is currently in is brighter than t
 
 The Boss has more health than a normal enemy and has a fixed pattern of strong attacks. 
 
-### Level 2
+## Level 2
 
 ![GIF of Path 1](https://loganthatcher.com/images/LoK/GIFs/Path1.gif)
 
 Having completed Level 1, the character makes a beeline directly to Level 2.
 
-![GIF of Teleport Tutorial](https://loganthatcher.com/images/LoK/GIFs/TeleportTutorial.gif)
+![GIF of Teleport Tutorial](https://loganthatcher.com/images/LoK/GIFs/Teleport.gif)
 
 On this level, the player is given a new ability to teleport a short distance. There is a ability icon
-that appears under the health bar when it is ready to use.
+that appears under the health bar when it is ready to use. Teleporting can help a player escape from sticky situations.
 
-![GIF of Teleport Fight](https://loganthatcher.com/images/LoK/GIFs/TeleportFight.gif)
-
-Teleporting can help a player escape from sticky situations.
-
-#### New Monsters
+### New Monsters
 
 ![GIF of ZigZag](https://loganthatcher.com/images/LoK/GIFs/ZigZag.gif)
 
@@ -133,7 +137,7 @@ This monster shoots 3 projectiles simultaneously in an arc.
 
 This monster generates a spiral of projectiles around them.
 
-#### Sample Gameplay
+### Sample Gameplay
 
 ![GIF of Fight 4](https://loganthatcher.com/images/LoK/GIFs/Fight4.gif)
 
@@ -147,7 +151,7 @@ signal what he is going to do.
 
 
 
-### Level 3
+## Level 3
 
 ![GIF of Path 2](https://loganthatcher.com/images/LoK/GIFs/Path2.gif)
 
@@ -159,7 +163,7 @@ The player is given another new ability that allows them to push away both monst
 This provides the player a tool to deal with large numbers of enemies by making space and dealing damage.
 There is another icon under the health bar that indicates when the ability is ready.
 
-#### New Monsters
+### New Monsters
 
 ![GIF of Bouncer](https://loganthatcher.com/images/LoK/GIFs/Bouncer.gif)
 
@@ -178,7 +182,7 @@ take advantage of the monster's slow turn rate.
 
 This monster has four orbs that spin around them and damage the player.
 
-#### Sample Gameplay
+### Sample Gameplay
 
 
 ![GIF of Fight 6](https://loganthatcher.com/images/LoK/GIFs/Fight6.gif)
@@ -193,7 +197,7 @@ to be more aware of their movement and the threats in the room.
 
 
 
-### End of Game
+## End of Game
 
 ![GIF of Path 3](https://loganthatcher.com/images/LoK/GIFs/Path3.gif)
 
@@ -203,33 +207,14 @@ Clearing all 3 dungeons, the character takes a bit of a victory lap.
 
 The player is presented with the end of the storyline, with them having successfully saved the kingdom.
 
-### Power ups
-
-![GIF of Heart 1](https://loganthatcher.com/images/LoK/GIFs/Heart1.gif)
-
-![GIF of Heart 2](https://loganthatcher.com/images/LoK/GIFs/Heart2.gif)
-
-![GIF of Heart 3](https://loganthatcher.com/images/LoK/GIFs/Heart3.gif)
-
-![GIF of Speed 1](https://loganthatcher.com/images/LoK/GIFs/Speed1.gif)
-
-![GIF of Speed 2](https://loganthatcher.com/images/LoK/GIFs/Speed2.gif)
-
-![GIF of Star 1](https://loganthatcher.com/images/LoK/GIFs/Star1.gif)
-
-![GIF of Star 2](https://loganthatcher.com/images/LoK/GIFs/Star2.gif)
-
-Monsters have a small chance of dropping a power up on death. There are three possibilities:
-a heal (the heart), a temporary speed boost (the lightening bolt), or temporary invulnerability (the star).
-The player emits particles while the buffs are active.
 
 ## GIFs from the game
 
 ## Technical Highlights
 
-### Visual Effects
+## Visual Effects
 
-### UI elements
+## UI elements
 
 ![Image of Title Screen](https://loganthatcher.com/images/LoK/images/TitleScreen.png)
 
