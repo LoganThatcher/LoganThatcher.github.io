@@ -10,7 +10,7 @@ Legend of Kyle is a top down dungeon crawler style game. There are a multitude o
 giving the game elements of a shoot 'em up. The character gains various abilities to provide 
 options to choose their own playstyle.
 
-## Developement
+### Development
 
 This game was built in Unity with a five person team.
 
@@ -85,7 +85,7 @@ The player emits corresponding particles while the buffs are active.
 
 ![GIF of Path 0](https://loganthatcher.com/images/LoK/GIFs/Path0.gif)
 
-Having completed the tutorial, players return to the overworld and the character makes there way to Level 1 
+Having completed the tutorial, player returns to the overworld and the character makes there way to Level 1 
 
 ### New Monsters 
 

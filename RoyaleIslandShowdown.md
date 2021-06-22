@@ -9,7 +9,7 @@ filename: RoyaleIslandShowdown.md
 Royale Island Showdown is an online multiplayer shooter. It contains battle royale elements where 4 players will dive down on the island map, 
 collect resources, and try to be the last player standing.  Each player has an AI teammate that works with them to win.
 
-### Developement
+### Development
 
 The game was built in Unreal Engine 4, by myself. It uses a combination of C++ and Unreal Blueprints.
 

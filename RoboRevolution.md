@@ -4,7 +4,7 @@ layout: template
 filename: RoboRevolution.md
 ---
 
-# Overview
+# Project Summary
 
   The game is played with two players who take turns moving their units and trying to shoot the other team. 
   The turn starts with an overhead view of the battlefield, where the current team's player can select one of their units. 
@@ -13,7 +13,7 @@ filename: RoboRevolution.md
   of their units before a previously used one will be available again. We made this decision so players would be forced to use all of their units. 
   Once a player has defeated all of the enemy team's units, the player wins.
 
-## Development
+### Development
 
   The game was developed by a team of 4 students. It was written in C++ with direct calls to the OpenGL API. 
 
