@@ -12,7 +12,11 @@ The first player to reach 30 points wins.
 
 ### Development
 
-This game was built by a team of 3 people in Unity. I made ......
+This game was built by a team of 3 people in Unity. I was responsible for the game design and refined it 
+through design iteration. I ran a series of user tests to understand the different 
+perspectives, playstyles, and approaches
+of players to the game. For this game, I also created the pixel art units and coded the movement of them.
+
 
 ## Pictures From The Game
 
@@ -24,7 +28,7 @@ This is the starting configuration of the board with each player having 3 units.
 During a player's turn, they have a limited number of actions (represented by AP on the top bar).
 Summoning units takes 1 to 4 AP depending on the unit type (mage, swordsman, archer, or cavalry).
 The player clicks one of the bottom buttons to deploy a new unit 
-and can then placed it on any unoccupied space in the first 3 columns on their side.
+and can then place it on any unoccupied space in the first 3 columns on their side.
  
 
 ![Image of MovementUI](https://loganthatcher.com/images/SKT/MovementUIBig.jpg)
@@ -43,4 +47,4 @@ These are the four pixel art sprites that I made for the different types of unit
 
 ![Image of Units from the two teams](https://loganthatcher.com/images/SKT/BothArchers.png)
 
-These is a color variant of each unit for the two teams that are mirror imaged based on the direction of play.
+There are color variants of each unit for the two teams that are mirror images based on the direction of play.

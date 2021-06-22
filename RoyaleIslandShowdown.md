@@ -6,14 +6,23 @@ filename: RoyaleIslandShowdown.md
 
 # Project Summary
 
-Royale Island Showdown is an online multiplayer shooter. It contains battle royale elements where 4 players will dive down on the island map, 
-collect resources, and try to be the last player standing.  Each player has an AI teammate that works with them to win.
+Royale Island Showdown is an online multiplayer shooter. It contains battle royale elements where 4 players 
+will dive down on the island map, 
+collect resources, and try to be the last player standing.  Each player has an AI teammate that 
+works with them to win.
 
 ### Development
 
-The game was built in Unreal Engine 4, by myself. It uses a combination of C++ and Unreal Blueprints.
+This game is an independent project built in Unreal Engine 4. I used the client server architecture to 
+create a stable and secure multiplayer environment. I designed an AI companion that strived to be an 
+effective and cooperative teammate. The AI had a perception system which closely mirrored the 
+information that was available to the player. It used this information in a modified K-nearest neighbors
+algorithm to predict how the player would react to situations. The AI added this information to a 
+Behavior Tree to make decisions and execute actions.
 
-And the game is available on Steam. [Link to the steam store page](https://store.steampowered.com/app/1528570/Royale_Island_Showdown/)
+Royale Island Showdown was made using a combination of C++ and Unreal Blueprints.
+
+The game is available on Steam. [Link to the steam store page](https://store.steampowered.com/app/1528570/Royale_Island_Showdown/)
 
 ## Map overview
 

@@ -12,7 +12,12 @@ options to choose their own playstyle.
 
 ### Development
 
-This game was built in Unity with a five person team.
+This game was built in Unity with a five person team. My primary contribution to the game was 
+a system for the creation of enemies (monsters). They were designed using a code structure 
+that made it easy to interchange individual pieces to minimize repetition of code, while still providing 
+a high degree of flexibility in behavior. I also contributed to visual aspects through my work on 
+the camera movements, character animation, and particles. Within the team, I provided leadership, 
+focused the direction of the project, and coordinated the integration of the game components.
 
 The game is playable on Kongregate at this [link](https://www.kongregate.com/games/SpikeHammer/the-legend-of-kyle)
 
@@ -23,7 +28,7 @@ The game is playable on Kongregate at this [link](https://www.kongregate.com/gam
 ![GIF of Fight 3](https://loganthatcher.com/images/LoK/GIFs/Fight3.gif)
 
 The main loop of the game is entering a room in the dungeon and killing all the monsters to move to the next room.
-Ultimatly trying to find the Boss Room and defeat it to move to the next level.
+Ultimately trying to find the Boss Room and defeat it to move to the next level.
 
 ## Start of Game
 
@@ -207,19 +212,3 @@ Clearing all 3 dungeons, the character takes a bit of a victory lap.
 
 The player is presented with the end of the storyline, with them having successfully saved the kingdom.
 
-
-## GIFs from the game
-
-## Technical Highlights
-
-## Visual Effects
-
-## UI elements
-
-![Image of Title Screen](https://loganthatcher.com/images/LoK/images/TitleScreen.png)
-
-![GIF of Fight 2](https://loganthatcher.com/images/LoK/GIFs/Fight2.gif)
-
-![GIF of Wind Blast Fight](https://loganthatcher.com/images/LoK/GIFs/WindBlastFight.gif)
-
-![GIF of Fight 5](https://loganthatcher.com/images/LoK/GIFs/Fight5.gif)

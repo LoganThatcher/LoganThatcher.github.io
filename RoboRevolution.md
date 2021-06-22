@@ -16,6 +16,11 @@ filename: RoboRevolution.md
 ### Development
 
   The game was developed by a team of 4 students. It was written in C++ with direct calls to the OpenGL API. 
+  I implemented the graphical optimizations View Frustum Culling and Back Face Culling. I also built 
+  visual debuggers to verify the functionality and performance of these optimizations. I used multipass
+  rendering techniques to add shadows to the game world and apply motion blur to particular scenes. 
+  I designed the game map and wrote a map editor that took in a pixel map image to generate the game board. 
+   
 
 ## General Pictures
 
