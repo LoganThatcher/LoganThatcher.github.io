@@ -6,72 +6,39 @@ filename: RoboRevolution.md
 
 # Project Summary
 
-  The game is played with two players who take turns moving their units and trying to shoot the other team. 
-  The turn starts with an overhead view of the battlefield, where the current team's player can select one of their units. 
-  Once selected, the player takes control of the unit and has 15 seconds to move and take a shot with their weapon. 
-  If the player runs out of time or shoots their weapon, the turn will change to the next player. A player must cycle through all 
-  of their units before a previously used one will be available again. We made this decision so players would be forced to use all of their units. 
-  Once a player has defeated all of the enemy team's units, the player wins.
+Robo Revolution is a 1v1 game that mixes turned based strategy with first person shooter controls.
+Players take turns moving their units and trying to shoot the other team.
+The turn starts with an overhead view of the battlefield from which the player selects a unit. 
+They have a limited time to move and their turn ends when they shoot or run out of time.
+Once a player has defeated all of the enemy team's units they win.
 
 ### Development
 
-  The game was developed by a team of 4 students. It was written in C++ with direct calls to the OpenGL API. 
-  I implemented the graphical optimizations View Frustum Culling and Back Face Culling. I also built 
-  visual debuggers to verify the functionality and performance of these optimizations. I used multipass
-  rendering techniques to add shadows to the game world and apply motion blur to particular scenes. 
-  I designed the game map and wrote a map editor that took in a pixel map image to generate the game board. 
+This game was developed C++ with direct calls to the OpenGL API by a team of 4 students. 
+I implemented the graphical optimizations View Frustum Culling and Back Face Culling. I also built 
+visual debuggers to verify the functionality and performance of these optimizations. I used multipass
+rendering techniques to add shadows to the game world and apply motion blur to particular scenes. 
+I designed the game map and wrote a map editor that took in a pixel map image to generate the game board. 
    
 
-## General Pictures
+## Overview
 
 ![Image of Map and Editor](https://loganthatcher.com/images/RoboRev/mapEditorAndOverhead.png)
 
-  Our map editor allowed a pixel map (as seen in the lower half) to be imported to the game. The map editor would process the image and turn it into
-  a result like the map seen in the top half of the image.
+  The map editor allowed a pixel map (shown in the lower half of the image above) to be imported to the game.
+  It processes the image and turned it into the result seen in the top half of the image above.
+
+## Tutorial
 
 ![Image of Startup](https://loganthatcher.com/images/RoboRev/startup.png)
 
   Players are presented with instructions upon starting the game.
 
-![Image of Shotgun Pickup](https://loganthatcher.com/images/RoboRev/shotgunpickup.png)
+## Gameplay
 
-  Two shotguns were located on the map. Moving over them will give players the ability to use them.
-
-![Image of Health Powerup](https://loganthatcher.com/images/RoboRev/healthpowerup.png)
-
-  Four health pickups are located on the map. Interacting with a pickup will restore one health to the unit.
-
-![Image of Player 1 winning](https://loganthatcher.com/images/RoboRev/player1win.png)
-
-  The victory screen for player 1
-
-![Image of Environmental Mapping](https://loganthatcher.com/images/RoboRev/environmentalMapping.png)
-
-  Reflections of the skybox can be seen in the map textures through the use of environmental mapping.
-
-![Image of Death Boom](https://loganthatcher.com/images/RoboRev/deathBoom.png)
-
-  Animated particles fly out from units when they die.
-
-![Image of Bullet Camera with Blur](https://loganthatcher.com/images/RoboRev/bulletCameraWithBlur.png)
-
-  Motion blur is activated when the bullet camera is on.
-
-![Gif of Camera Zoom](https://loganthatcher.com/images/RoboRev/camera_zoom.gif)
+![Gif of Camera Zoom](https://loganthatcher.com/images/RoboRev/cameraZoom.gif)
 
   Camera zoom when selecting a character
-
-![Gif of Collecting a health powerup and shooting](https://loganthatcher.com/images/RoboRev/healthPowerupAndShooting1.gif)
-
-  Collecting a health powerup and shooting -- 1
-
-![Gif of Collecting a health powerup and shooting](https://loganthatcher.com/images/RoboRev/healthPowerupAndShooting2.gif)
-
-  Collecting a health powerup and shooting -- 2
-
-![Gif of Idle animation](https://loganthatcher.com/images/RoboRev/IdleAnimation.gif)
-
-  Idle animation
 
 ![Gif of Picking up a Shotgun](https://loganthatcher.com/images/RoboRev/PickingUpShotgun.gif)
 
@@ -81,7 +48,47 @@ filename: RoboRevolution.md
 
   Shotgun shot and unit death
 
+![Image of Player 1 winning](https://loganthatcher.com/images/RoboRev/player1win.png)
+
+  This is the victory screen shown when player 1 wins.
+
+## Pickups
+
+![Image of Shotgun Pickup](https://loganthatcher.com/images/RoboRev/shotgunpickup.png)
+
+  Two shotguns were located on the map. Moving over one gives it to that unit.
+
+![Image of Health Powerup](https://loganthatcher.com/images/RoboRev/healthpowerup.png)
+
+  Four health pickups are located on the map. Walking into it restores one health to the unit.
+
+![Gif of Collecting a health powerup and shooting](https://loganthatcher.com/images/RoboRev/healthPowerupAndShooting1.gif)
+
+  Collecting a health powerup and shooting -- 1
+
+![Gif of Collecting a health powerup and shooting](https://loganthatcher.com/images/RoboRev/healthPowerupAndShooting2.gif)
+
+  Collecting a health powerup and shooting -- 2
+
+
+## Technical Effects
+
+![Image of Environmental Mapping](https://loganthatcher.com/images/RoboRev/environmentalMapping.png)
+
+  Reflections of the skybox can be seen in the map textures through the use of environmental mapping.
+
 ![Gif of Environmental Mapping and Skybox](https://loganthatcher.com/images/RoboRev/EnvironmentalMappingAndSkybox.gif)
 
   Environmental Mapping and Skybox
 
+![Image of Death Boom](https://loganthatcher.com/images/RoboRev/deathBoom.png)
+
+  Animated particles fly out from units when they die.
+
+![Image of Bullet Camera with Blur](https://loganthatcher.com/images/RoboRev/bulletCameraWithBlur.png)
+
+  Motion blur is activated when the bullet camera is on.
+
+![Gif of Idle animation](https://loganthatcher.com/images/RoboRev/IdleAnimation.gif)
+
+  Idle animation

@@ -11,12 +11,14 @@ I have a passion for games and am looking for a position where I can learn from 
 me expand my skill set. I am excited to work on challenging projects which provide the opportunity to produce quality games while 
 growing as a developer. 
 
-When making a game, I enjoy building a cohesive theme that enhances the player's experience. 
-I like making strategic games and enjoy thinking through puzzles and challenges. 
-I also have experience making action and shooter games using engines like Unity and Unreal 4 
-and developing game graphics directly with OpenGL's API.
+When making a game, I strive to build a cohesive theme that enhances the player's experience. 
+I like developing situations which encourage strategic thinking and enjoy the process of 
+devising puzzles and challenges. I also have experience making action and shooter games 
+using Unity and Unreal 4 and developing game graphics directly with OpenGL's API.
 
-I enjoy (hobbies) ... (games and activities)
+I like playing video games (obviously). I enjoy engaging in the depth of strategies and puzzles,  
+unwinding in the flow of action, and savoring a good storyline. In my spare time I swim, hike, 
+and play with my dog Chip.
 
 ## Projects
 
