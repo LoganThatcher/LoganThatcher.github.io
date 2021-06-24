@@ -26,8 +26,8 @@ I designed the game map and wrote a map editor that took in a pixel map image to
 
 ![Image of Map and Editor](https://loganthatcher.com/images/RoboRev/mapEditorAndOverhead.png)
 
-  The map editor allowed a pixel map (shown in the lower half of the image above) to be imported to the game.
-  It processes the image and turned it into the result seen in the top half of the image above.
+  The map editor allows a pixel map (shown in the lower half of the image above) to be imported to the game.
+  It processes the image and turns it into the result seen in the top half of the image above.
 
 
 ## Tutorial
@@ -41,19 +41,19 @@ I designed the game map and wrote a map editor that took in a pixel map image to
 
 ![Gif of Camera Zoom](https://loganthatcher.com/images/RoboRev/cameraZoom.gif)
 
-  From the Overhead view the turn player selects then possesses a unit.
+  From the overhead view the player selects then possesses a unit.
+
+  <br>
 
 ![Gif of Collecting a health powerup and shooting](https://loganthatcher.com/images/RoboRev/healthPowerupAndShooting2.gif)
 
-  Collecting a health powerup and shooting -- 2
-
-  This is an example of a turn. The player collects a health pickups and shoots an enemy.
+  This is an example of a turn. The player collects a health pickup before shooting an enemy.
+  <br>
 
 ![Gif of Shotgun shot and unit death](https://loganthatcher.com/images/RoboRev/ShotgunShotAndUnitDeath.gif)
 
-  Shotgun shot and unit death
-
-  The Player uses the shotgun pickup to kill an enemy unit.
+  The player uses the shotgun pickup to kill an enemy unit.
+  <br>
 
 ![Image of Player 1 winning](https://loganthatcher.com/images/RoboRev/player1win.png)
 
@@ -64,26 +64,21 @@ I designed the game map and wrote a map editor that took in a pixel map image to
 
 ![Gif of Picking up a Shotgun](https://loganthatcher.com/images/RoboRev/PickingUpShotgun.gif)
 
-  Two shotguns were located on the map. Moving over one gives it to that unit.
+  Two shotguns ware located on the map. Moving over one gives it to that unit.
+  <br>
 
 ![Image of Health Powerup](https://loganthatcher.com/images/RoboRev/healthpowerup.png)
 
-  Four health pickups are located on the map. Walking into it restores one health to the unit.
-
-![Gif of Collecting a health powerup and shooting](https://loganthatcher.com/images/RoboRev/healthPowerupAndShooting1.gif)
-
-  Collecting a health powerup and shooting -- 1
+  Four health pickups are located on the map. Walking into one restores a health to the unit.
+  <br>
 
 
 ## Technical Effects
 
-![Image of Environmental Mapping](https://loganthatcher.com/images/RoboRev/environmentalMapping.png)
-
-  Reflections of the skybox can be seen in the map textures through the use of environmental mapping.
-
 ![Gif of Environmental Mapping and Skybox](https://loganthatcher.com/images/RoboRev/EnvironmentalMappingAndSkybox.gif)
 
-  Environmental Mapping and Skybox
+  Reflections of the skybox can be seen in the map textures through the use of environmental mapping.
+  <br>
 
 ![Image of Death Boom](https://loganthatcher.com/images/RoboRev/deathBoom.png)
 
@@ -93,11 +88,4 @@ I designed the game map and wrote a map editor that took in a pixel map image to
 
   Motion blur is activated when the bullet camera is on.
 
-![Gif of Idle animation](https://loganthatcher.com/images/RoboRev/IdleAnimation.gif)
 
-  Idle animation
-
-
-### Unused
-
-![Image of Shotgun Pickup](https://loganthatcher.com/images/RoboRev/shotgunpickup.png)
