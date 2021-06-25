@@ -48,11 +48,13 @@ I designed the game map and wrote a map editor that took in a pixel map image to
 ![Gif of Collecting a health powerup and shooting](https://loganthatcher.com/images/RoboRev/healthPowerupAndShooting2.gif)
 
   This is an example of a turn. The player collects a health pickup before shooting an enemy.
+
   <br>
 
 ![Gif of Shotgun shot and unit death](https://loganthatcher.com/images/RoboRev/ShotgunShotAndUnitDeath.gif)
 
   The player uses the shotgun pickup to kill an enemy unit.
+
   <br>
 
 ![Image of Player 1 winning](https://loganthatcher.com/images/RoboRev/player1win.png)
@@ -65,12 +67,12 @@ I designed the game map and wrote a map editor that took in a pixel map image to
 ![Gif of Picking up a Shotgun](https://loganthatcher.com/images/RoboRev/PickingUpShotgun.gif)
 
   Two shotguns ware located on the map. Moving over one gives it to that unit.
+
   <br>
 
 ![Image of Health Powerup](https://loganthatcher.com/images/RoboRev/healthpowerup.png)
 
   Four health pickups are located on the map. Walking into one restores a health to the unit.
-  <br>
 
 
 ## Technical Effects
@@ -78,11 +80,14 @@ I designed the game map and wrote a map editor that took in a pixel map image to
 ![Gif of Environmental Mapping and Skybox](https://loganthatcher.com/images/RoboRev/EnvironmentalMappingAndSkybox.gif)
 
   Reflections of the skybox can be seen in the map textures through the use of environmental mapping.
+
   <br>
 
 ![Image of Death Boom](https://loganthatcher.com/images/RoboRev/deathBoom.png)
 
   Animated particles fly out from units when they die.
+
+  <br>
 
 ![Image of Bullet Camera with Blur](https://loganthatcher.com/images/RoboRev/bulletCameraWithBlur.png)
 

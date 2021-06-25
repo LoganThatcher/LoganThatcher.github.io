@@ -7,14 +7,14 @@ filename: RoyaleIslandShowdown.md
 # Project Summary
 
 Royale Island Showdown is an online multiplayer shooter. It contains battle royale elements where 4 players 
-will dive down on the island map, 
+dive down onto the island map, 
 collect resources, and try to be the last player standing.  Each player has an AI teammate that 
 works with them to win.
 
 ### Development
 
 This game is an independent project built in Unreal Engine 4. I used the client server architecture to 
-create a stable and secure multiplayer environment. I designed an AI companion that strived to be an 
+create a stable and secure multiplayer environment. I designed an AI companion with the goal of having an 
 effective and cooperative teammate. The AI had a perception system which closely mirrored the 
 information that was available to the player. It used this information in a modified K-nearest neighbors
 algorithm to predict how the player would react to situations. The AI added this information to a 
@@ -28,7 +28,7 @@ The game is available on Steam. [Link to the steam store page](https://store.ste
 
 ![Image of Map Overview](https://loganthatcher.com/images/RIS/images/Overview16by9.png)
 
-The game map has a variety of features and sections, with 1000+ trees, boxes, walls, barrels and buildings.
+The game map has a variety of features and sections, with 1000+ obstacles, walls, and buildings.
 
 ## The Teams
 
@@ -48,6 +48,8 @@ This composite shows 4 locations from different areas of the map, each from the 
 
 All players begin by flying over the island in a plane
 
+<br>
+
 ![GIF of Falling](https://loganthatcher.com/images/RIS/GIFs/Falling.gif)
 
 When they choose, players can jump out and fall to the island where they want
@@ -58,13 +60,18 @@ When they choose, players can jump out and fall to the island where they want
 
 Players then move around the map collecting gear
 
-
-
+<br>
 
 ![GIF of AI Teammate All](https://loganthatcher.com/images/RIS/GIFs/AITeammateAll.gif)
 
 The AI moves and collects gear independently while staying near the player and trying to predict their plan.
 
+<br>
+
+![Image of Mini Map](https://loganthatcher.com/images/RIS/images/MiniMap.png)
+
+There is a minimap in the top left corner of the screen which player's can use to find enemies
+(not always pictured since some images are from earlier in development)
 
 
 ## Collect Resources
@@ -72,7 +79,6 @@ The AI moves and collects gear independently while staying near the player and t
 ![GIF of Collecting Resources](https://loganthatcher.com/images/RIS/GIFs/CollectResources.gif)
 
 There are three types of resources for the players: guns, health, and ammo
-
 
 
 ## Shooting
@@ -83,16 +89,12 @@ There are three types of weapons, each with sound and muzzles flash when shootin
 
 ## Fighting Enemies
 
-![Image of Mini Map](https://loganthatcher.com/images/RIS/images/MiniMap.png)
-
-There is a minimap in the top left corner of the screen which player's can use to find enemies
-(not always pictured since some images are from earlier in development)
-
-
 
 ![Image of Fighting Enemies](https://loganthatcher.com/images/RIS/images/FightingEnemies.png)
 
 The red player on the left is reloading while his teammate is shooting at the blue team.
+
+<br>
 
 ![GIF of Fight](https://loganthatcher.com/images/RIS/GIFs/Fight.gif)
 
@@ -106,12 +108,15 @@ The blue AI runs for cover behind the tree but once his blue player backs off, h
 
 There is a border wall that periodically shrinks to restrict play space to maintain pacing and encourages players to interact.
 
+<br>
+
 ![Image of Low Health](https://loganthatcher.com/images/RIS/images/LowHealth.png)
 
 Low health is indicated to the player by light blurring as well as red tinting and vignette. 
 These effects become more pronounced as health drops.
 
+<br>
+
 ![Image of Underwater](https://loganthatcher.com/images/RIS/images/Underwater.png)
 
 When players are underwater, they slowly lose health. While underwater there is a blue tinting and strong vignette.
-
