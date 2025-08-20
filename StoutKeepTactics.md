@@ -1,6 +1,6 @@
 ---
 title: StoutKeep Tactics
-layout: template
+layout: projectsTemplate
 filename: StoutKeepTactics.md
 ---
 

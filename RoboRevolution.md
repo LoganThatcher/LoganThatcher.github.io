@@ -1,6 +1,6 @@
 ---
 title: Robo Revolution
-layout: template
+layout: projectsTemplate
 filename: RoboRevolution.md
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Royale Island Showdown
-layout: template
+layout: projectsTemplate
 filename: RoyaleIslandShowdown.md
 ---
 

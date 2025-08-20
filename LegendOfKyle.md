@@ -1,6 +1,6 @@
 ---
 title: Legend of Kyle
-layout: template
+layout: projectsTemplate
 filename: LegendOfKyle.md
 ---
 

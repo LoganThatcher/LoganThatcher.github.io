@@ -6,23 +6,14 @@ filename: index.md
 
 ## About Me
 
-I received my B.S. in Computer Science with a concentration in Interactive Entertainment from Cal Poly, San Luis Obispo in March 2021. 
-I have a passion for games and am looking for a position where I can learn from others who share my passions and can help 
-me expand my skill set. I am excited to work on challenging projects which provide the opportunity to produce quality games while 
-growing as a developer. 
+About Me
+I received my B.S. in Computer Science with a concentration in Interactive Entertainment from Cal Poly, San Luis Obispo in 2021 and then went to work as a Software Engineer at Dire Wolf Digital. At Dire Wolf I worked on eight shipped titles, including being the lead engineer on 2 shipped titles and their expansions. While working at Dire Wolf, I honed my skills in Unity and C# and collaborated with designers, artists, and other engineers to develop high quality games. My education gave me a broad understanding of code design, the ability to work in a variety of languages, and a solid foundation in physics, AI, and multiplayer systems.
 
-When making a game, I strive to build a cohesive theme that enhances the player's experience. 
-I like developing situations which encourage strategic thinking and enjoy the process of 
-devising puzzles and challenges. I also have experience making action and shooter games 
-using Unity and Unreal 4 and developing game graphics directly with OpenGL's API.
-
-I like playing video games (obviously). I enjoy engaging in the depth of strategies and puzzles,  
-unwinding in the flow of action, and savoring a good storyline. In my spare time I swim, hike, 
-and play with my dog Chip.
+I'm a passionate and detail-oriented game engineer with 5+ years of experience building immersive gameplay systems and optimizing performance. I’ve developed games of varying styles and scopes using both Unity and Unreal Engine. I thrive in collaborative, creative environments and enjoy solving complex problems that enhance the player experience. I’m passionate about building innovative projects, learning with a skilled team, and crafting memorable games that players love.
 
 ## Projects
 
-The projects highlighted in this portfolio were created during my time at Cal Poly and help showcase my skills and the growth 
+The projects highlighted here were created during my time at Cal Poly and help showcase my skills and the growth 
 of my game designs over the course of my education. They are listed in reverse chronological order.
 
 Click a title or image for a page of more infomation about the project
