@@ -40,7 +40,7 @@ The base of the system was a Cubic Bezier Curve dynamically generated from the s
 
 Munchkin is based on the vibe of playing Dungeons and Dragons in a basement with your friends, full of the 90's humor to match. Players gear up their character, kick down the doors of the dungeon, and try to rush their way to be first to max level. 
 
-![Image of Munchkin](https://loganthatcher.com/images/DWD/Munchkin_Kicking.png)
+![Image of Munchkin](https://loganthatcher.com/images/DWD/Munchkin_Kick.png)
 
 I began work on Munchkin at the first playable prototype stage, then rose to Primary Unity Engineer for moving from Beta/Early Access to the Full Release. Munchkins posed several interesting challenges to digitizing. First, many of the cards are of the form "break this base rule" which required far more robust and flexible systems to handle it, without needing to write everything when adding cards from expansions or having to have special case handling for each one. Second was the social nature of the game, which is not just in the deal making and back stabbing between players, but in the very nature of the more loose and interpretive nature in which rules and cards are written. There is an informal rule to Munchkin that "the last player still arguing is correct". 
 

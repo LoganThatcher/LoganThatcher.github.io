@@ -1,5 +1,5 @@
 ---
-title: Logan Thatcher's Other Projexts
+title: Logan Thatcher's Other Projects
 layout: projectsTemplate
 filename: index.md
 ---
